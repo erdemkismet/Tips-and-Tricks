@@ -1,3 +1,5 @@
+# I'm testing chatgpt extension.
+
 enemies = [
     {'type': 'Orc', 'health': 0},
     {'type': 'Orc', 'health': 0},
